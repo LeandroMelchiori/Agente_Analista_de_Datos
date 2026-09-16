@@ -1,0 +1,11 @@
+.env
+
+.venv/
+.venv.rar
+
+__pycache__/
+*.pyc
+
+checkpoints.db
+checkpoints.db-shm
+checkpoints.db-wal
